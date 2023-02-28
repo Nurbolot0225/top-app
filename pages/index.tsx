@@ -1,11 +1,9 @@
-import React from 'react';
 
-const index = () => {
+
+export default function Home(): JSX.Element {
   return (
     <div>
-     
+      html
     </div>
   );
-};
-
-export default index;
+}
