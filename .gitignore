@@ -14,16 +14,6 @@
 # next.js
 /.next/
 /out/
-next.config.js
-
-# typescript
-tsconfig.json
-
-# eslint
-.eslintrc
-
-# stylelint
-.stylelintrc.json
 
 # production
 /build
