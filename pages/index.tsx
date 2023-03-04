@@ -8,7 +8,7 @@ function Home(): JSX.Element {
 	return (
 		<>
 			<Htag tag='h1'>Заголовок</Htag>
-			<Button apperance='primary' arrow='right' >Кнопка</Button>
+			<Button apperance='primary' arrow='right'>Кнопка</Button>
 			<Button apperance='ghost' arrow='down'>Кнопка</Button>
 			<P size="l">Большой</P>
 			<P>Средний</P>
