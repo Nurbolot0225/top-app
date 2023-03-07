@@ -53,7 +53,7 @@ export const Menu = (): JSX.Element => {
                         <div key={m._id.secondCategory}>
                             <div className={styles.secondLevel} onClick={() => openSecondLevel(m._id.secondCategory)}>{m._id.secondCategory}</div>
                             <div className={cn(styles.secondLevelBlock, {   
-                                [styles.secondBlockOpened]: m.isOpened
+                                [styles.secondLevelBlockOpened]: m.isOpened
                             })}>
                                 {buildThirdLevel(m.pages, menuItem.route)}
                             </div>
@@ -67,7 +67,7 @@ export const Menu = (): JSX.Element => {
     const buildThirdLevel = (pages: PageItem[], route: string) => {
         return (
             pages.map(p => (
-                <Link href={`/${route}/${p.alias}`}>
+                <Link key={p._id} href={`/${route}/${p.alias}`}>
                     <a className={cn(styles.thirdLevel, {
                         [styles.thirdLevelActive]: `/${route}/${p.alias}` == router.asPath
                             })}>
