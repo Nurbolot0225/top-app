@@ -6,11 +6,11 @@ import Logo from '../logo.svg';
 import { Search } from '../../components';
 
 export const Sidebar = ({ className, ...props }: SidebarProps): JSX.Element => {
-    return (
-        <div className={cn(className, styles.sidebar)} {...props}>
-            <Logo className={styles.logo} />
-            <Search />
-            <Menu />
-        </div>
-    );
+	return (
+		<div className={cn(className, styles.sidebar)} {...props}>
+			<Logo className={styles.logo} />
+			<Search />
+			<Menu />
+		</div>
+	);
 };
