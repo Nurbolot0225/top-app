@@ -6,7 +6,8 @@ body {
 	padding: 0;
 
 	color: var(--black);
-	background: #E5E5E5;
+	/* background: #fff;  */
+	background: #e5e5e5;
 
 	font-family: 'Noto Sans', sans-serif;
 }
@@ -25,12 +26,13 @@ a {
 	--black: #3B434E;
 	--gray-light: #EBEBEB;
 	--gray: #A4A4A4;
-	--gray-dark: #787D85;
+	--gray-dark: #6C7077;
 	--white: white;
-	--primary: #7653FC;
-	--primary-hover: #6344df;
+	--primary: #7351F5;
+	--primary-hover: #6344DF;
+	--red-light: #FEA291;
 	--red: #FC836D;
-	--green: #1DC37E;
+	--green: #007B48;
 	--green-light: #C8F8E4;
 	--font-family: 'Noto Sans', sans-serif;
 }

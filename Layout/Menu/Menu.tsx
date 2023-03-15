@@ -115,7 +115,7 @@ export const Menu = (): JSX.Element => {
 							})}
 							aria-current={`/${route}/${p.alias}` == router.asPath ? 'page' : false}
 						>
-							{p.category}
+							{p.category.slice(0, 20) + ' ...'}
 						</a>
 					</Link>
 				</motion.li>
