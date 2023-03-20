@@ -1,14 +1,12 @@
 import { GetStaticProps } from 'next';
-import React, { useState } from 'react';
+import React from 'react';
 import { Skeleton } from '../components';
 import { withLayout } from '../Layout/Layout';
 import axios from 'axios';
 import { MenuItem } from '../interfaces/menu.interface';
 import { API } from '../helpers/api';
 
-function Home({ menu }: HomeProps): JSX.Element {
-	const [rating, setRating] = useState<number>(4);
-
+function Home(): JSX.Element {
 	return (
 		<>
 			<Skeleton/>

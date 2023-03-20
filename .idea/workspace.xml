@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25436090-29c6-4639-88e9-5d58dbb71b51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/Sidebar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Layout/Sidebar/Sidebar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useScrollY.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useScrollY.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Advantages/Advantages.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Advantages/Advantages.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Product/Product.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Product/Product.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ReviewForm/ReviewForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/ReviewForm/ReviewForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Sceleton/Sceleton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sceleton/Sceleton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Up/Up.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Up/Up.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/[type]/[alias].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[type]/[alias].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/[type]/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[type]/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +45,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +85,7 @@
       <workItem from="1679153435652" duration="39000" />
       <workItem from="1679153481911" duration="3794000" />
       <workItem from="1679225650309" duration="6306000" />
+      <workItem from="1679303836285" duration="6341000" />
     </task>
     <servers />
   </component>

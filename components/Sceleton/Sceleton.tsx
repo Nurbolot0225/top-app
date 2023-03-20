@@ -1,5 +1,4 @@
 import styles from './Sceleton.module.css';
-import cn from 'classnames';
 
 export const Skeleton = (): JSX.Element => {
     return (

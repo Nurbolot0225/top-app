@@ -1,3 +1,4 @@
+
 import { GetStaticProps } from 'next';
 import React from 'react';
 import { withLayout } from '../Layout/Layout';
