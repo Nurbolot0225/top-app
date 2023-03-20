@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="25436090-29c6-4639-88e9-5d58dbb71b51" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Review/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Up/Up.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Up/Up.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/icons/books.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/books.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/icons/products.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/products.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/icons/services.svg" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/icons/services.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Layout/Sidebar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/Layout/Sidebar/Sidebar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useScrollY.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useScrollY.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +35,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\nurch\\OneDrive\\Рабочий стол\\Projects\\top-app\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -61,10 +54,30 @@
       <workItem from="1678721810659" duration="704000" />
       <workItem from="1678726955384" duration="775000" />
       <workItem from="1678856610131" duration="4116000" />
+      <workItem from="1678863148639" duration="21214000" />
+      <workItem from="1678896703030" duration="1034000" />
+      <workItem from="1678949852339" duration="374000" />
+      <workItem from="1678982669971" duration="791000" />
+      <workItem from="1679149826382" duration="368000" />
+      <workItem from="1679150233237" duration="3090000" />
+      <workItem from="1679153435652" duration="39000" />
+      <workItem from="1679153481911" duration="3794000" />
+      <workItem from="1679225650309" duration="6306000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
